@@ -10,7 +10,7 @@ redirect_from:
 
 # Welcome!
 
-I'm **David L. Adei** (formally Dawuda Ahmed), a Ph.D student in the [Computer Science Department](https://www.csc.ncsu.edu/) at [North Carolina State University](https://www.ncsu.edu/), advised by [Dr. Brad Reaves](https://bradreaves.net). 
+I'm **David L. Adei** (formally Dawuda Ahmed), a Ph.D student in the [Computer Science Department](https://www.csc.ncsu.edu/){:target="_blank"} at [North Carolina State University](https://www.ncsu.edu/){:target="_blank"}, advised by [Dr. Brad Reaves](https://bradreaves.net){:target="_blank"}. 
 
 My research centers on systems security and privacy-preserving technologies, with a current focus on developing advanced techniques to secure telephone networks, mitigate telecom fraud, and expand the STIR/SHAKEN caller authentication framework. 
 

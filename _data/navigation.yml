@@ -6,14 +6,13 @@
 
 main:
   - title: "News"
-    url: /
+    url: /in-the-news/
 
   - title: "Publications"
     url: /publications/
         
-  - title: "Blogs"
-    url: /blogs/
-
   - title: "CV/Resume"
     url: /cv/
 
+  - title: "Blogs"
+    url: /blogs/
