@@ -28,3 +28,15 @@ h1{
         }
     }
 }
+
+.btn.secondary {
+    background-color: $secondary-color;
+    color: $warning-color;
+    border: 1px solid $warning-color;
+    text-decoration: none;
+    font-weight: normal;
+    &:hover {
+        background-color: $warning-color;
+        color: $secondary-color;
+    }
+}
