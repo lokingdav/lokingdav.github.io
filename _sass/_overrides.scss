@@ -12,3 +12,19 @@ h1{
     margin: 0;
     color: $warning-color;
 }
+
+.greedy-nav button {
+    background-color: $secondary-color !important;
+}
+
+.greedy-nav {
+    .hidden-links {
+        .masthead__menu-item {
+            border-bottom-color: $warning-color;
+            a {
+                color: $secondary-color;
+                font-weight: bold;
+            }
+        }
+    }
+}
