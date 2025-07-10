@@ -1,0 +1,10 @@
+services:
+  site:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: lokingdav
+    volumes:
+      - ./:/usr/src/app
+    ports:
+      - '4000:4000'
