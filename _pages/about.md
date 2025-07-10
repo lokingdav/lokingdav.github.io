@@ -1,24 +1,23 @@
 ---
 permalink: /
-excerpt: "About me"
-title: "First Impression!"
+title: "About Me"
+excerpt: "David L. Adei, Ph.D. Candidate in Computer Science at NC State, specializing in security and privacy."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-<br/>
-I'm **David L. Adei**, a Ph.D. student in the [Computer Science Department](https://www.csc.ncsu.edu/){:target="_blank"} at [North Carolina State University](https://www.ncsu.edu/){:target="_blank"} and a member of the [Wolfpack Security and Privacy Research (WSPR) Lab](https://wspr.csc.ncsu.edu/people.html){:target="_blank"}. I am advised by [Dr. Brad Reaves](https://bradreaves.net){:target="_blank"}.
 
-My research focuses on distributed systems security and privacy-preserving technologies. Currently, I’m developing advance defense techniques to retrofit telephone networks with robust caller authentication to combat telecom fraud in the ecosystem.
+I am a security researcher dedicated to building systems that protect people from fraud and privacy invasions. My current focus is on retrofitting the global telephone network, where I develop new defenses to combat robocalls and authenticate callers.
 
-My first Ph.D. paper, **Jäger: Automated Telephone Call Traceback**, received both the [**Distinguished Paper Award**](https://www.sigsac.org/ccs/CCS2024/program/awards.html#:~:text=Kim%2C%20H.%20Lee-,J%C3%A4ger%3A%20Automated%20Telephone%20Call%20Traceback,-Authors%3A%20D.%20Adei){:target="_blank"} and [**Distinguished Artifact Award**](https://www.sigsac.org/ccs/CCS2024/program/awards.html#:~:text=the%20Function%20Granularity-,J%C3%A4ger%3A%20Automated%20Telephone%20Call%20Traceback,-DarthShader%3A%20Fuzzing%20WebGPU){:target="_blank"} at ACM CCS 2024.
+I am a Ph.D. candidate in the [Computer Science Department](https://www.csc.ncsu.edu/){:target="_blank"} at [North Carolina State University](https://www.ncsu.edu/){:target="_blank"}, where I am a member of the [Wolfpack Security and Privacy Research (WSPR) Lab](https://wspr.csc.ncsu.edu/people.html){:target="_blank"}, advised by [Dr. Brad Reaves](https://bradreaves.net){:target="_blank"}.
 
-This site highlights my **research**, **publications**, and **projects**. If you're interested in **collaboration**, **discussion**, or just curious about robocalls, feel free to explore or reach out.
+My foundational Ph.D. work, [**Jäger: Automated Telephone Call Traceback**](https://www.sigsac.org/ccs/CCS2024/program/awards.html#:~:text=Kim%2C%20H.%20Lee-,J%C3%A4ger%3A%20Automated%20Telephone%20Call%20Traceback,-Authors%3A%20D.%20Adei){:target="_blank"}, provides one of the first automated methods for tracing fraudulent calls to their source. This research was honored with both the **Distinguished Paper Award** and the **Distinguished Artifact Award** at ACM CCS 2024.
 
 ---
 
-🛠️ **I anticipate graduating in Spring 2026 and currently seeking job opportunities.**  
-📄 [View my CV/Resume](../files/david-cv.pdf){:target="_blank"}
+I am on track to graduate in **Spring 2026** and am actively seeking full-time research or engineering roles where I can solve impactful, real-world security challenges.
 
-🔬 Research hub on robocalls and telephony abuse: [**robocall.science**](https://robocall.science){:target="_blank"}
+📄 [**View my CV/Resume**](../files/david-cv.pdf){:target="_blank"}
+
+For a deep dive into telephony security, visit our research hub: [**robocall.science**](https://robocall.science){:target="_blank"}
