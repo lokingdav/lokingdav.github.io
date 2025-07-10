@@ -12,7 +12,7 @@ title                    : "David's Homepage"
 title_separator          : "-"
 name                     : &name "David L. Adei"
 description              : &description "even the best can be better"
-url                      : https://lokingdav.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://david.adei.love # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lokingdav/lokingdav.github.io"
 
