@@ -11,7 +11,9 @@ tags:
   - phd-journey
 ---
 
-I've just returned from a whirlwind week in Salt Lake City for the ACM Conference on Computer and Communications Security (CCS) 2024, and I’m still processing everything. Attending a top-tier conference is always an incredible learning experience, but this one was truly special.
+I've just returned from a whirlwind week in Salt Lake City for the ACM Conference on Computer and Communications Security (CCS) 2024, and I’m still processing everything. 
+
+Attending a top-tier conference is always an incredible learning experience, but this one was truly special.
 
 Presenting our paper, "Jäger: Automated Telephone Call Traceback," was a highlight. It’s one thing to work on a project for months in the lab, but it’s another to share it with a room full of the leading experts in your field. The questions and discussions that followed were insightful and gave me new perspectives on our work.
 

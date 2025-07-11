@@ -5,7 +5,9 @@ date: 2025-01-10
 tags: [research, phd-journey, security, advice, ccs]
 ---
 
-Last fall, my first Ph.D. project, "Jäger," was recognized with both a Distinguished Paper Award and a Distinguished Artifact Award at ACM CCS. While the recognition was an incredible honor, the real value came from the lessons learned during the process. For any student starting their research journey, I wanted to share a few takeaways from the experience of taking an idea from a whiteboard to an award-winning paper and artifact.
+Last fall, my first Ph.D. project, "Jäger," was recognized with both a Distinguished Paper Award and a Distinguished Artifact Award at ACM CCS. 
+
+While the recognition was an incredible honor, the real value came from the lessons learned during the process. For any student starting their research journey, I wanted to share a few takeaways from the experience of taking an idea from a whiteboard to an award-winning paper and artifact.
 
 ### Lesson 1: Tackle Problems People Actually Have
 
