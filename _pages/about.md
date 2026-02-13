@@ -18,6 +18,6 @@ My foundational Ph.D. work, [**Jäger: Automated Telephone Call Traceback**](htt
 
 I am on track to graduate in **Spring 2026** and am actively seeking full-time research or engineering roles where I can solve impactful, real-world security challenges.
 
-📄 [**View my CV/Resume**](../files/david-cv.pdf){:target="_blank"}
+📄 [**View my Resume**](../files/david-cv.pdf){:target="_blank"}
 
 For a deep dive into telephony security, visit our research hub: [**robocall.science**](https://robocall.science){:target="_blank"}
