@@ -16,7 +16,7 @@ My foundational Ph.D. work, [**Jäger: Automated Telephone Call Traceback**](htt
 
 ---
 
-I am on track to graduate in **Spring 2026** and am actively seeking full-time research or engineering roles where I can solve impactful, real-world security challenges.
+<!-- I am on track to graduate in **Spring 2026** and am actively seeking full-time research or engineering roles where I can solve impactful, real-world security challenges. -->
 
 📄 [**View my Resume**](../files/david-cv.pdf){:target="_blank"}
 
